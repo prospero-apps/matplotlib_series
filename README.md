@@ -51,35 +51,55 @@ In the previous part of the Matplotlib series we were talking about the legend. 
 
 ![image](https://github.com/user-attachments/assets/c4e74dbe-4d9d-4b74-877e-b3b2f5de83f7)
 
-## 
+## matplotlib Part 11 – Axis Ticks
+In the previous part of the Matplotlib series we were talking about text annotations. In this part we’ll be talking about axis ticks.
 
+![image](https://github.com/user-attachments/assets/2a1dbc9c-c5f8-4ed6-ac7b-c143753c1db7)
 
-## 
+## matplotlib Part 12 – Grids
+In the previous part of the Matplotlib series we were talking about axis ticks. Today’s topic is closely related to this. A graph will become more readable if you add grid lines to it.
 
+![image](https://github.com/user-attachments/assets/c45f735f-2230-405c-91d2-f840583f4414)
 
-## 
+## matplotlib Part 13 – Sharing Axis Scale
+Sometimes you may want to share axis scale across multiple axes.
 
+![image](https://github.com/user-attachments/assets/fa644c9e-4d3b-4dd0-9393-c4a450f51c74)
 
-## 
+## matplotlib Part 14 – Twin Axes
+Sometimes you may want to display two independent axes at the same time, like for example when you plot two different quantities on one graph. 
 
+![image](https://github.com/user-attachments/assets/a52b52dc-3c11-4326-98ae-3021fa704ac5)
 
-## 
+## matplotlib Part 15 – Insets
+You can create axes that sit inside other axes. You can come across examples of axes that display magnified portions of the main axis. We call such axes insets.
 
+![image](https://github.com/user-attachments/assets/4c9f09fd-51b1-4177-9ae8-e18bb2833b02)
 
-## 
+## matplotlib Part 16 – The Subplot2grid Layout Manager
+Most of the time we’ve been creating figures and axes using the plt.subplots method. Today let’s have a look at a layout manager that can help us with it a little.
 
+![image](https://github.com/user-attachments/assets/66fe8927-175c-4af2-868e-7695e53aea30)
 
-## 
+## matplotlib Part 17 – Scatter Plots with the plot Method
+So far we’ve been only using line plots. But there’s a great variety of plots we can use in matplotlib. Let’s first talk about scatter plots. 
 
+![image](https://github.com/user-attachments/assets/249b55fc-93a7-469b-bdd4-61d3e2ecfb38)
 
-## 
+## matplotlib Part 18 – Scatter Plots with the scatter Method
+In the previous article we were using the plot method to create scatter plots. But there’s a specialized and more powerful method to do that. In this article we’re going to be using it.
 
+![image](https://github.com/user-attachments/assets/a95918b6-12e7-44aa-91ba-3b676b704b37)
 
-## 
+## matplotlib Part 19 – Histograms
+In this article we’ll have a look at histograms, binnings and density plots.
 
+![image](https://github.com/user-attachments/assets/e583cfe5-ef9b-4cab-b5de-30c1936286f9)
 
-## 
+## matplotlib Part 20 – 2D Histograms
+In the previous article we were talking about histograms. Today we’ll be talking about two-dimensional histograms, which we create using the hist2d method.
 
+![image](https://github.com/user-attachments/assets/ca3b2127-a2ed-484f-8ea5-cd3e38f4a335)
 
 ## 
 
