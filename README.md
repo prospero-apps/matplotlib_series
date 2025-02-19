@@ -101,29 +101,49 @@ In the previous article we were talking about histograms. Today we’ll be talki
 
 ![image](https://github.com/user-attachments/assets/ca3b2127-a2ed-484f-8ea5-cd3e38f4a335)
 
-## 
+## matplotlib Part 21 – Errorbars
+In this article we’ll be talking about errorbars. We use them to add information about possible errors or uncertainties. 
+
+![image](https://github.com/user-attachments/assets/1f208857-2d79-4746-85a1-af9674464872)
+
+## matplotlib Part 22 – Colormap Plots
+In this article we’ll be talking about colormap plots. These are used to represent three-dimensional data in 2D. The x and y axes are represented by position in a 2D coordinate system whereas the value of z is represented by a color.
+
+![image](https://github.com/user-attachments/assets/408adc50-8a64-450f-a019-ff88c6d74c5f)
+
+## matplotlib Part 23 – Contour Plots
+In the previous article we were talking about color maps. Today we’ll be talking about contour maps, which are pretty similar. Instead of the pcolor method, you use the contour method.
+
+![image](https://github.com/user-attachments/assets/78c278ef-175a-497d-a369-98e3a7129c25)
+
+## matplotlib Part 24 – Colorbars
+In the preceding articles we were talking about colormap plots and contour plots. We know that the colors represent the Z values, whereas the X and Y values are represented by position in a 2D coordinate system. But what do the colors mean? What values of Z do they correspond to? In order to make it clear, we should add a color legend, or a colorbar.
+
+![image](https://github.com/user-attachments/assets/b0b03557-2d52-4038-9ba0-fff6a313868d)
+
+## matplotlib Part 25 – The Colorbar for Scatter Plots
+Some time ago we were talking about scatter plots. In the previous article we were talking about colorbars. In this article we’ll use a colorbar for the colors of the points.
+
+![image](https://github.com/user-attachments/assets/44135765-1529-4f52-af3f-a1f6fa10996f)
+
+## matplotlib Part 26 – Axes3D and 3D Projection
+2D plots are great and in most cases they’re all you need. But if you need a 3D plot, matplotlib has this functionality too. In this lecture we’ll be talking about the basics of 3D plotting in matplotlib.
+
+![image](https://github.com/user-attachments/assets/8a75174e-370d-44a1-b5e6-11cbd5479081)
+
+## matplotlib Part 27 – 3D Points and Lines
+Now that you know what 3D projection is, it’s time to actually plot something. Let’s start with something simple like 3D points and lines. As you remember, in 2D we use the ax.plot method to plot lines and the ax.scatter method to plot points. They both have counterparts in 3D, ax.plot3D and ax.scatter3D respectively.
+
+![image](https://github.com/user-attachments/assets/b9a46e62-6682-4229-b3b9-2e13efd1eae6)
+
+## matplotlib Part 28 – 3D Contour Plots
+Today we’ll be plotting contours in 3D. To this end we need the contour method. This method works in a similar way as in 2D. You can specify the stride, as well as the projection direction. 
+
+![image](https://github.com/user-attachments/assets/445a9415-2167-4557-b4d8-9b6fa24908ec)
+
+## matplotlib Part 29 – Wireframes and Surface Plots
+Today we’ll be talking about wireframe and surface plots. We’ll be using our example from the previous lecture and modify it.
+
+![image](https://github.com/user-attachments/assets/d61f9f3d-79fc-4e78-8f0a-705fd67b2ffe)
 
 
-## 
-
-
-
-## 
-
-
-## 
-
-
-## 
-
-
-## 
-
-
-## 
-
-
-## 
-
-
-## 
